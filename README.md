@@ -34,7 +34,7 @@
 ### Terrain Features
 - The world generation includes basic terrain features like **trees** and **water**.
 - Water is generated at lower elevations (based on the `z` value), flooding low-lying areas.
-- Currently, the game supports only one biome, referred to as "normal.". No 'forests', 'hills', 'deserts' and etc. biomes, it's a one do all biome, referred as 'normal'.
+- Currently, the game supports only one biome, referred to as "normal.". No 'forests', 'hills', 'deserts', etc. It's a one do all biome, referred as 'normal'.
 
 ## ⚠️ Known Issues & Limitations
 
