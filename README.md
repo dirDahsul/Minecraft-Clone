@@ -18,7 +18,7 @@
 
 ### Mesh Generation
 - Blocks (or more appropriately, the block's faces) are only rendered if they are visible to the player, determined by checking the dictionary for neighboring blocks.
-- Each 'visible' block has its own individual face mesh (front, back, up, down, left, right). Basically the block is made out of meshes for it's faces.
+- Each 'visible' block has its own individual face mesh (front, back, up, down, left, right). Basically the block is made out of meshes for each of it's faces.
 - Although this approach allows for detailed, straight-on, point-on block generation and rendering, it results in performance issues due to the large number of individual meshes being rendered.
 
 ### Performance Considerations
