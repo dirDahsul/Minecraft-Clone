@@ -40,6 +40,7 @@
 
 - **Performance**: The game is not optimized, resulting in potential lag or slow performance as the world grows.
 - **Limited Biomes**: Only one biome type is available. There are no specialized biomes like oceans, deserts, hills, or forests.
+- **Diversity**: As the game only has cabblestone, dirt, grass, tree trunk and leaves, it currently lacks the diversity of having many other blocks/entities.
 - **Rendering**: The current rendering technique, which involves many individual meshes, is not ideal and significantly impacts performance.
 - **Novice-Level Code**: The codebase is functional but not optimized or professionally designed. This project is intended as a learning experience rather than a polished product.
 
