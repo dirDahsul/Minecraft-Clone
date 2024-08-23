@@ -1,4 +1,4 @@
-# Minecraft Clone
+# Minecraft Clone - Unity 3D Project
 
 **Minecraft Clone** is a simple yet somewhat ambitious Unity game built with C#. The project aims to replicate the core mechanics of Minecraft, featuring infinite world generation, block placement, and basic inventory management. This README provides an overview of the project's features, the technical challenges encountered, and the current state of the game.
 
