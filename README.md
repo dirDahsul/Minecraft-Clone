@@ -8,6 +8,7 @@
 - The game uses **Perlin Noise** to generate a smooth and infinite world.
 - World generation is based on a **seed**, ensuring consistent world creation for the same seed.
 - The backend relies on a dictionary with `(x, y, z)` coordinates as keys and the associated block as the value.
+- Dynamic day/night sky was included thnx to Azure's Dynamic Skybox asset. However, it was removed from the project to prevent distribution of this paid asset.
 
 ### Infinite World
 - The world is procedurally generated in chunks, each of size `16x16` blocks.
@@ -47,6 +48,27 @@
 ## 🎮 Media
 
 - **Screenshots** and **video** of the gameplay are included right here. These provide a visual overview of the game's current state (which is functional, just not offering full minecraft experience at all).
+
+*Screenshots*
+
+![Picture1](https://github.com/user-attachments/assets/2bf9d4ee-ba38-497a-b86b-0dc3fe8e9a99)
+![Picture2](https://github.com/user-attachments/assets/8304f8a4-c24e-437a-934d-da0969ed4436)
+![Picture3](https://github.com/user-attachments/assets/2418daed-a3ae-4c04-a502-fe540da8a1d8)
+![Picture4](https://github.com/user-attachments/assets/917aaa4c-d463-4e25-9fd2-1836a9e7b0ee)
+![Picture5](https://github.com/user-attachments/assets/d9640c58-3258-4a15-bd94-7fc066f74437)
+![Picture6](https://github.com/user-attachments/assets/6b9fc78b-82e7-45ef-8e8e-38ec3d0c7f00)
+![Picture7](https://github.com/user-attachments/assets/0c0f6d79-303d-4b0c-95f5-7f2de6e4b538)
+![Picture8](https://github.com/user-attachments/assets/10c5fba7-dc69-4090-b1a8-904023be2f4b)
+
+*Videos*
+
+https://github.com/user-attachments/assets/6dd82e88-4640-402f-8974-a36aee6ba136
+
+https://github.com/user-attachments/assets/ca15dd4f-2a55-479f-abf5-92610eb94ade
+
+https://github.com/user-attachments/assets/8777cc9b-b421-4a99-8c75-1db8d165092f
+
+https://github.com/user-attachments/assets/bf3ebc7d-79f3-4806-a82d-c9c577e99a30
 
 ## 📜 Disclaimer
 
